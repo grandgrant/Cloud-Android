@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771271424221",
+    "firebase_url": "https://cloudotentikasi.firebaseio.com",
+    "project_id": "cloudotentikasi",
+    "storage_bucket": "cloudotentikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771271424221:android:f49477c22bfd67e0",
+        "android_client_info": {
+          "package_name": "com.skripsi.cloudotentikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771271424221-oi1fd2jhv392csu6olcoajf8v8n2bigh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skripsi.cloudotentikasi",
+            "certificate_hash": "29f8b03bede1726b9cd0e30e576414bdf7b65d0c"
+          }
+        },
+        {
+          "client_id": "771271424221-p2r90qdef3md05qv1fd5hkt95csn7gcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmOrJrPciIKBgEI7EStkT133izTlJYsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771271424221-p2r90qdef3md05qv1fd5hkt95csn7gcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
